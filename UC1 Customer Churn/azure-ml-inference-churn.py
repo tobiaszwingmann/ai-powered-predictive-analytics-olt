@@ -13,14 +13,14 @@ API_URL = "http://xxxxxxxxxxxxxxxxxxxxxx.eastus2.azurecontainer.io/score"
 
 def inference_request(df):
 
-    # Define the expected order of columns as per the model's training
-    expected_columns = [
-        "Country", "State", "City", "Senior Citizen", "Partner", "Dependents", 
-        "Tenure Months", "Phone Service", "Multiple Lines", "Internet Service", 
-        "Online Security", "Online Backup", "Device Protection", "Tech Support", 
-        "Streaming TV", "Streaming Movies", "Contract", "Paperless Billing", 
-        "Payment Method", "Monthly Charges", "Total Charges", "CLTV"
-    ]
+  # Define the expected order of columns as per the model's training
+  expected_columns = [
+      "Country", "State", "City", "Senior Citizen", "Partner", "Dependents", 
+      "Tenure Months", "Phone Service", "Multiple Lines", "Internet Service", 
+      "Online Security", "Online Backup", "Device Protection", "Tech Support", 
+      "Streaming TV", "Streaming Movies", "Contract", "Paperless Billing", 
+      "Payment Method", "Monthly Charges", "Total Charges", "CLTV"
+  ]
 
   # Bind columns to dataframe
   request_df = df[expected_columns]
@@ -53,7 +53,7 @@ result = inference_request(df)
 
 # SECTION 4: Data postprocessing ----
 result = pd.DataFrame(json.loads(result.content))
-df['ArrDel15_Prediction'] = result
+df['Churn_AzureML_Prediction'] = result
 
 # SECTION 5: Format output for Power BI ----
 output = df
