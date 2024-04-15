@@ -11,10 +11,19 @@ API_URL = "http://xxxxxxxxxxxxxxxxxxxxxx.eastus2.azurecontainer.io/score"
 
 # SECTION 1: API Request Function ----
 
-def inference_request(DayOfWeek, Origin, Dest, DepDelay, DepDelayMinutes, DepDel15, DepartureDelayGroups, DepTimeBlk, TaxiOut, ArrTimeBlk, Distance, DistanceGroup):
-  
+def inference_request(df):
+
+    # Define the expected order of columns as per the model's training
+    expected_columns = [
+        "Country", "State", "City", "Senior Citizen", "Partner", "Dependents", 
+        "Tenure Months", "Phone Service", "Multiple Lines", "Internet Service", 
+        "Online Security", "Online Backup", "Device Protection", "Tech Support", 
+        "Streaming TV", "Streaming Movies", "Contract", "Paperless Billing", 
+        "Payment Method", "Monthly Charges", "Total Charges", "CLTV"
+    ]
+
   # Bind columns to dataframe
-  request_df = pd.DataFrame({"DayOfWeek":DayOfWeek, "Origin":Origin, "Dest":Dest, "DepDelay":DepDelay, "DepDelayMinutes":DepDelayMinutes, "DepDel15":DepDel15, "DepartureDelayGroups":DepartureDelayGroups, "DepTimeBlk":DepTimeBlk, "TaxiOut":TaxiOut, "ArrTimeBlk":ArrTimeBlk, "Distance":Distance, "DistanceGroup":DistanceGroup})
+  request_df = df[expected_columns]
   
   req = {
       "Inputs": {
@@ -39,7 +48,7 @@ df = dataset
 
 
 # SECTION 3: Get Predictions ----
-result = inference_request(df['DayOfWeek'], df['Origin'], df['Dest'], df['DepDelay'], df['DepDelayMinutes'], df['DepDel15'], df['DepartureDelayGroups'], df['DepTimeBlk'], df['TaxiOut'], df['ArrTimeBlk'], df['Distance'], df['DistanceGroup'])
+result = inference_request(df)
 
 
 # SECTION 4: Data postprocessing ----
