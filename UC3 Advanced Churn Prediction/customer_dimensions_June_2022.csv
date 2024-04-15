@@ -1,0 +1,1910 @@
+customerID,PhoneService,InternetService,Partner,Dependents,MultipleLines,SeniorCitizen,OnlineSecurity,OnlineBackup,PaymentMethod,Month
+a446029e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,1
+a4460352-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,Yes,Electronic check,6
+a44603f2-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,1
+a446047e-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Credit card (automatic),6
+a44605a0-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,1,No internet service,No internet service,Bank transfer (automatic),6
+a446062c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Credit card (automatic),6
+a44606b8-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,Yes,Electronic check,6
+a4460744-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,Yes,Electronic check,6
+a44607d0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,Yes,Electronic check,1
+a446096a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,1,Yes,Yes,Credit card (automatic),6
+a44609f6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,Yes,0,No,No,Mailed check,6
+a4460a82-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,Yes,No,Bank transfer (automatic),6
+a4460b0e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,Yes,Credit card (automatic),6
+a4460b90-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Electronic check,6
+a4460c26-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a4460cb2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Bank transfer (automatic),6
+a4460dca-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,No,Electronic check,6
+a4460e4c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Bank transfer (automatic),6
+a4460ee2-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,Yes,Bank transfer (automatic),6
+a4460f64-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),1
+a4460ffa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,Yes,Electronic check,1
+a4461356-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a44613f6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a4461482-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a446150e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Bank transfer (automatic),6
+a446159a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,1
+a446161c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a44616b2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,1
+a446173e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,Yes,Credit card (automatic),6
+a44617d4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a4461856-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,No,Bank transfer (automatic),6
+a4461cde-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Credit card (automatic),3
+a4461d6a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Electronic check,1
+a4461f0e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,Yes,Bank transfer (automatic),5
+a4461f9a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,Yes,Mailed check,6
+a4462026-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Electronic check,1
+a44620b2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,No,Credit card (automatic),6
+a446213e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,1
+a44622d8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,Yes,Yes,Bank transfer (automatic),2
+a4462364-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Credit card (automatic),1
+a44623e6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,Yes,Credit card (automatic),6
+a4462472-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,1,Yes,Yes,Credit card (automatic),6
+a4462580-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Mailed check,6
+a4462602-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a446268e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a44627b0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a4462832-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a44628be-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,No,Bank transfer (automatic),6
+a446294a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,2
+a44629cc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,No,Yes,Credit card (automatic),6
+a4462a58-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Bank transfer (automatic),6
+a4462ada-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Credit card (automatic),6
+a4462b5c-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a4462be8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Bank transfer (automatic),6
+a4462c6a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,Yes,Yes,Electronic check,6
+a4462cf6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,No,Electronic check,6
+a4462d78-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Credit card (automatic),6
+a4462e9a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,Yes,No,Mailed check,6
+a4462f26-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,Yes,Bank transfer (automatic),1
+a4462fee-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,No,Bank transfer (automatic),6
+a446307a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Credit card (automatic),2
+a4463106-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,Yes,Credit card (automatic),2
+a44632a0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,1
+a4463322-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,1
+a44633ae-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a4463430-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a44634c6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,Yes,Electronic check,3
+a4463552-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a44635f2-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,3
+a446367e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a44637a0-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,Yes,Yes,Credit card (automatic),6
+a4463822-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,No,Bank transfer (automatic),1
+a44638ae-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Credit card (automatic),1
+a446398a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Credit card (automatic),6
+a4463a2a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,6
+a4463aac-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a4463b2e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,Yes,Electronic check,2
+a4463bc4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a4463cc8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,Yes,Credit card (automatic),6
+a4463dd6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a4463e62-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a4463ef8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,No,Bank transfer (automatic),6
+a4463f84-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,1
+a446409c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a446411e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Credit card (automatic),1
+a44641aa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,Yes,Credit card (automatic),6
+a4464236-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,No,Mailed check,6
+a44642b8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,Yes,Credit card (automatic),6
+a446433a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,1,No,No,Electronic check,6
+a44644d4-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,Yes,Yes,Mailed check,6
+a4464556-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,Yes,Bank transfer (automatic),6
+a44645d8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,1
+a44646e6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,Yes,Credit card (automatic),6
+a4464772-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a4464916-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,1,Yes,Yes,Bank transfer (automatic),6
+a44649a2-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Bank transfer (automatic),6
+a4464ab0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a4464bbe-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,Yes,0,No internet service,No internet service,Credit card (automatic),6
+a4464cc2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Bank transfer (automatic),4
+a4464d44-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,Yes,Electronic check,6
+a4464ede-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,No,No,Bank transfer (automatic),6
+a4464fec-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Bank transfer (automatic),6
+a446506e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a4465294-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,No,Bank transfer (automatic),6
+a4465316-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a44653a2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,No,No,Bank transfer (automatic),6
+a44655b4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Credit card (automatic),1
+a4465636-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Mailed check,6
+a44656f4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,1
+a4465910-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Bank transfer (automatic),2
+a446599c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Electronic check,6
+a4465b36-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,Yes,Bank transfer (automatic),3
+a4465c6c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,1,No,Yes,Bank transfer (automatic),1
+a4465cee-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,No,No,Mailed check,6
+a4465e06-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Credit card (automatic),6
+a4465e88-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,No,Electronic check,6
+a4465f14-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,Yes,Credit card (automatic),4
+a446602c-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a44660fe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,No,Electronic check,6
+a446631a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a44663b0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a44664dc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,Yes,Bank transfer (automatic),6
+a446655e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,No,Electronic check,1
+a44665ea-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,Yes,Electronic check,6
+a4466798-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Bank transfer (automatic),6
+a446681a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,Yes,Bank transfer (automatic),6
+a44668a6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Electronic check,1
+a44669b4-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a4466a36-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a4466ac2-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a4466bd0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,Yes,Bank transfer (automatic),6
+a4466c5c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,No,Yes,Bank transfer (automatic),6
+a4466ce8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,Yes,No,Electronic check,6
+a4466d74-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,Yes,Electronic check,6
+a4466df6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,No,Credit card (automatic),1
+a4466e82-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Credit card (automatic),1
+a4467012-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Credit card (automatic),6
+a446709e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a44671a2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a4467224-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,Yes,Yes,Electronic check,2
+a44672ba-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,1
+a446733c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Bank transfer (automatic),6
+a44673be-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Electronic check,6
+a446744a-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a44674ea-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a44675f8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,Yes,Yes,Credit card (automatic),6
+a44676e8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Electronic check,6
+a4467774-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,Yes,Electronic check,6
+a44677f6-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a4467882-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,Yes,Electronic check,1
+a44679a4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Credit card (automatic),6
+a4467aa8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Mailed check,2
+a4467b2a-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a4467bac-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Bank transfer (automatic),6
+a4467c38-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Bank transfer (automatic),6
+a4467cba-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,Yes,Bank transfer (automatic),6
+a4467d3c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,Yes,Yes,Electronic check,6
+a4467dfa-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a4467e86-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a446803e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,Yes,Credit card (automatic),6
+a44680c0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a446814c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,1
+a44681ce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,Yes,No,Electronic check,6
+a44683d6-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a4468458-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,Yes,Electronic check,6
+a44684da-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a44685f2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a4468674-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a4468886-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,1,No,Yes,Electronic check,6
+a4468976-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,No,Credit card (automatic),6
+a4468a48-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,Yes,Yes,Electronic check,6
+a4468b88-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,Yes,No,Bank transfer (automatic),6
+a4468c14-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,No,Yes,Electronic check,6
+a4468d18-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,Yes,Electronic check,6
+a4468e30-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,1,No,No,Credit card (automatic),2
+a4468eb2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,No,Electronic check,6
+a4468f34-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a4468fc0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a44690ce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,No,Electronic check,6
+a4469150-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,Yes,Credit card (automatic),6
+a44691d2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,6
+a44692d6-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,Yes,Yes,Electronic check,6
+a4469358-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,Yes,Yes,Credit card (automatic),6
+a4469402-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,Yes,Mailed check,6
+a4469524-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a44695a6-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Mailed check,6
+a44696b4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,Yes,Bank transfer (automatic),6
+a4469736-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,Yes,Bank transfer (automatic),1
+a4469844-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a44698d0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,Yes,Electronic check,2
+a44699d4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Mailed check,1
+a4469a60-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,Yes,Credit card (automatic),6
+a4469aec-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,Yes,Yes,Bank transfer (automatic),6
+a4469b78-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Credit card (automatic),1
+a4469bfa-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,Yes,Mailed check,6
+a4469d30-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,Yes,Yes,Electronic check,2
+a4469db2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,Yes,Credit card (automatic),6
+a4469e3e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Bank transfer (automatic),6
+a4469ec0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,No,Bank transfer (automatic),6
+a4469f42-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,Yes,Bank transfer (automatic),3
+a446a0dc-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a446a172-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,2
+a446a280-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Mailed check,6
+a446a302-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,No,Electronic check,6
+a446a38e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,Yes,Bank transfer (automatic),6
+a446a410-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,Yes,Bank transfer (automatic),6
+a446a4ce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a446a55a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,4
+a446a5e6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,No,Bank transfer (automatic),6
+a446a712-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Bank transfer (automatic),1
+a446a794-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,1,No,Yes,Mailed check,6
+a446a820-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a446a8ac-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,Yes,Credit card (automatic),6
+a446a92e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,Yes,Bank transfer (automatic),6
+a446a9b0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Bank transfer (automatic),2
+a446aa32-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,1
+a446aabe-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,No,Credit card (automatic),5
+a446ac4e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a446ad5c-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,Yes,Yes,Credit card (automatic),6
+a446adde-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),1
+a446af0a-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a446afb4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a446b0ea-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,Yes,No,Electronic check,1
+a446b16c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Credit card (automatic),2
+a446b1f8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,No,Yes,Credit card (automatic),6
+a446b388-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,Yes,Electronic check,3
+a446b40a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,2
+a446b496-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,Yes,No,Bank transfer (automatic),6
+a446b5a4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,Yes,Bank transfer (automatic),6
+a446b626-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Electronic check,2
+a446b6b2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a446b734-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,No,No,Mailed check,1
+a446b7b6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,Yes,Credit card (automatic),6
+a446b8c4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,Yes,Electronic check,6
+a446b978-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,No,Electronic check,2
+a446b9fa-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,No,Yes,Credit card (automatic),6
+a446ba7c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,1
+a446bafe-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a446bc16-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,Yes,Bank transfer (automatic),6
+a446bc98-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Credit card (automatic),3
+a446bda6-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a446beb4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a446bf36-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a446bfb8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,No,Yes,Mailed check,6
+a446c044-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,Yes,No,Mailed check,6
+a446c0c6-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a446c1ca-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,1
+a446c27e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,Yes,Bank transfer (automatic),6
+a446c346-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,Yes,Credit card (automatic),6
+a446c3c8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,Yes,Bank transfer (automatic),2
+a446c454-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a446c4d6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,Yes,Credit card (automatic),6
+a446caf8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,1
+a446cb8e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Credit card (automatic),6
+a446cc6a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,No,No,Credit card (automatic),6
+a446ce04-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a446cf30-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,No,Bank transfer (automatic),1
+a446d03e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,No,Electronic check,3
+a446d0c0-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a446d1f6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,Yes,No,Bank transfer (automatic),6
+a446d282-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Credit card (automatic),6
+a446d304-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a446d386-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a446d412-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,1
+a446d49e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,Yes,Credit card (automatic),6
+a446d52a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a446d688-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a446d82c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a446d93a-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Mailed check,6
+a446d9c6-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a446da48-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,No,No,Bank transfer (automatic),1
+a446dad4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a446db60-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a446dbec-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a446dc6e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,Yes,Credit card (automatic),6
+a446dcfa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a446de94-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,1,No,Yes,Credit card (automatic),1
+a446df20-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),6
+a446dfac-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Bank transfer (automatic),4
+a446e13c-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a446e24a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,Yes,Credit card (automatic),3
+a446e3e4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Bank transfer (automatic),1
+a446e470-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a446e4f2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,1
+a446e57e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,Yes,Yes,Bank transfer (automatic),6
+a446e600-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,No,Mailed check,6
+a446e68c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Bank transfer (automatic),6
+a446e8a8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,No,Credit card (automatic),1
+a446e934-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,2
+a446e9c0-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a446eaf6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,Yes,Yes,Electronic check,6
+a446eb82-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,Yes,Credit card (automatic),6
+a446ec0e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,0,No,Yes,Bank transfer (automatic),6
+a446ec90-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,Yes,Yes,Bank transfer (automatic),2
+a446ed1c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Mailed check,3
+a446ed9e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),3
+a446ee2a-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a446ef38-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a446efba-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,6
+a446f046-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),1
+a446f0c8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a446f1e0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,No,Mailed check,6
+a446f316-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Electronic check,6
+a446f3ca-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Mailed check,1
+a446f5dc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,Yes,1,No,Yes,Electronic check,3
+a446f668-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Bank transfer (automatic),6
+a446f6ea-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,Yes,0,No internet service,No internet service,Electronic check,6
+a446f76c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,Yes,No,Bank transfer (automatic),6
+a446f7f8-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a446f884-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a446f910-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a446f992-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a446fa14-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a446faa0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,Yes,No,Bank transfer (automatic),1
+a446fb22-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a446fba4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a446fc30-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a446fdb6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,No,No,Bank transfer (automatic),6
+a446fe42-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a446fec4-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a446ffdc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Bank transfer (automatic),6
+a447005e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a44700ea-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a447016c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Mailed check,6
+a44701ee-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a447027a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Credit card (automatic),2
+a44702fc-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,Yes,0,No internet service,No internet service,Credit card (automatic),6
+a447037e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Mailed check,2
+a447059a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Credit card (automatic),6
+a4470644-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Credit card (automatic),1
+a44706c6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Bank transfer (automatic),4
+a4470752-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a4470856-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Mailed check,1
+a44708e2-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,Yes,No,Electronic check,6
+a4470964-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a4470a72-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Electronic check,1
+a4470b80-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,Yes,Electronic check,1
+a4470c16-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Credit card (automatic),6
+a4470cfc-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Bank transfer (automatic),6
+a4470e0a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a4470e8c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a4470f0e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Electronic check,1
+a4470fc2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,Yes,Credit card (automatic),6
+a447104e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a44710d0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a4471152-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,1,No,No,Credit card (automatic),1
+a44711de-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Electronic check,1
+a4471260-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,Yes,Credit card (automatic),6
+a44712f6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,No,Mailed check,6
+a4471382-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,6
+a4471404-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a4471486-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Credit card (automatic),6
+a4471512-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,Yes,0,Yes,Yes,Electronic check,6
+a4471724-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,No,Electronic check,4
+a44717a6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,Yes,Credit card (automatic),6
+a44718dc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,Yes,Credit card (automatic),2
+a4471968-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,Yes,Electronic check,6
+a4471a3a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a4471b52-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,Yes,Bank transfer (automatic),6
+a4471bde-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,Yes,Bank transfer (automatic),6
+a4471cec-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,Yes,0,No internet service,No internet service,Bank transfer (automatic),6
+a4471d6e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,No,Bank transfer (automatic),6
+a7a992b6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,1
+a7a99450-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Mailed check,3
+a7a99504-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),1
+a7a995a4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,No,Mailed check,6
+a7a9963a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a996c6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),1
+a7a9975c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,1
+a7a997e8-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,2
+a7a99874-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Credit card (automatic),1
+a7a99900-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7a99996-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7a99a2c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,1,No,No,Mailed check,1
+a7a99ac2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Bank transfer (automatic),1
+a7a99b44-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a99bd0-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7a99c5c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Mailed check,6
+a7a99ce8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a99d74-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,2
+a7a99e00-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7a99e8c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7a99f18-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),1
+a7a99fa4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,2
+a7a9a044-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7a9a0d0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9a1b6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7a9a24c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,4
+a7a9a2d8-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,No,Electronic check,6
+a7a9a364-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,2
+a7a9a3e6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,1
+a7a9a472-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Electronic check,1
+a7a9a4fe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,3
+a7a9a58a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,2
+a7a9a616-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,Yes,Mailed check,4
+a7a9a6a2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,1
+a7a9a72e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,1
+a7a9a7ba-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,2
+a7a9a846-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9a8d2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9a954-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7a9a9e0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7a9aa62-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,1
+a7a9aaee-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,3
+a7a9ab70-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,1
+a7a9ac06-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Credit card (automatic),4
+a7a9ac9c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,2
+a7a9ad1e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9adaa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,Yes,Mailed check,1
+a7a9ae36-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7a9aec2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,1
+a7a9af4e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,Yes,Electronic check,2
+a7a9b0ca-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Electronic check,1
+a7a9b1b0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7a9b2dc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9b390-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,1
+a7a9b41c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7a9b4a8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Mailed check,1
+a7a9b53e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9b5c0-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,2
+a7a9b64c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9b6ce-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Mailed check,1
+a7a9b75a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,Yes,Electronic check,1
+a7a9b7e6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9b868-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,1
+a7a9b8f4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7a9b980-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,1
+a7a9ba0c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,1
+a7a9ba98-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Credit card (automatic),1
+a7a9bb24-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9bba6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Mailed check,2
+a7a9bc32-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7a9bcbe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,Yes,Mailed check,1
+a7a9bd40-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Bank transfer (automatic),1
+a7a9bdcc-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9be58-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,1,Yes,No,Electronic check,1
+a7a9bee4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7a9bf66-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9bff2-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,1
+a7a9c07e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),4
+a7a9c100-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9c182-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,1
+a7a9c20e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9c290-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,1
+a7a9c31c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Credit card (automatic),2
+a7a9c3a8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Mailed check,1
+a7a9ced4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7a9cfc4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Credit card (automatic),1
+a7a9d078-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,1
+a7a9d10e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Electronic check,1
+a7a9d19a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9d226-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,1
+a7a9d2b2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7a9d348-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,1
+a7a9d3d4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9d456-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,1
+a7a9d4e2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,1
+a7a9d5b4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9d64a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,1
+a7a9d74e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7a9d7e4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9d870-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,2
+a7a9d8fc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),1
+a7a9d988-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,2
+a7a9da1e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Bank transfer (automatic),1
+a7a9daaa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9db36-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9dbb8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,1
+a7a9dc44-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,2
+a7a9dcc6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9dd48-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,No,Bank transfer (automatic),2
+a7a9ddd4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9de60-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7a9dee2-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,6
+a7a9df6e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9dff0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,1
+a7a9e07c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,1
+a7a9e108-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Bank transfer (automatic),1
+a7a9e18a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,5
+a7a9e216-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,1,No internet service,No internet service,Mailed check,1
+a7a9e2a2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7a9e32e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,3
+a7a9e3ba-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7a9e43c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9e4c8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a7a9e554-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Bank transfer (automatic),2
+a7a9e5e0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7a9e662-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,2
+a7a9e6ee-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9e770-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7a9e7f2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7a9e87e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,1
+a7a9e90a-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,No,Electronic check,1
+a7a9e98c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9ea18-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Electronic check,1
+a7a9ea9a-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7a9eb26-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Electronic check,6
+a7a9ebbc-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7a9ec48-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,1
+a7a9ecca-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9ed4c-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7a9edd8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,1
+a7a9ee64-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,1
+a7a9eee6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9efae-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7a9f04e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7a9f0da-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,1
+a7a9f166-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,1
+a7a9f1f2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,No,Electronic check,1
+a7a9f27e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9f30a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9f396-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Electronic check,1
+a7a9f418-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,Yes,No,Electronic check,2
+a7a9f4a4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7a9f530-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9f5bc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,1,No,No,Mailed check,2
+a7a9f63e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7a9f6ca-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,Yes,Electronic check,2
+a7a9f760-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),1
+a7a9f7ec-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),2
+a7a9f878-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,1
+a7a9f940-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,6
+a7a9f9cc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9fa58-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),1
+a7a9fada-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7a9fb66-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9fbe8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7a9fc74-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7a9fcf6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,1
+a7a9fd82-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,1
+a7a9fe90-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7a9ff1c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,3
+a7a9ffa8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,1
+a7aa005c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,2
+a7aa00e8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,1
+a7aa0174-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,2
+a7aa01f6-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,Yes,Electronic check,6
+a7aa0282-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,3
+a7aa030e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,1
+a7aa0390-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,1
+a7aa0412-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7aa049e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Mailed check,1
+a7aa052a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,2
+a7aa05ac-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,1
+a7aa062e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7aa06c4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7aa0750-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7aa07dc-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,3
+a7aa085e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Credit card (automatic),1
+a7aa08ea-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,1
+a7aa0d0e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,1
+a7aa0dc2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7aa0e4e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,1
+a7aa0f16-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7aa0ffc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Bank transfer (automatic),1
+a7aa10ce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Bank transfer (automatic),2
+a7aa1164-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,5
+a7aa1204-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7aa1286-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa1312-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa139e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a7aa1420-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7aa14ac-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,1
+a7aa1538-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,4
+a7aa15c4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,1
+a7aa1650-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7aa170e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,1
+a7aa179a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,1
+a7aa1826-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,3
+a7aa18b2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7aa193e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,2
+a7aa19ca-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Mailed check,6
+a7aa1a4c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7aa1ace-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,2
+a7aa1b5a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,1,No,No,Electronic check,2
+a7aa1bdc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,2
+a7aa1c5e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Electronic check,6
+a7aa1cea-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,Yes,Electronic check,1
+a7aa1d76-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,2
+a7aa1df8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7aa1e84-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Mailed check,6
+a7aa1f1a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,1
+a7aa1fa6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,1
+a7aa2028-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa20b4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7aa2136-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),1
+a7aa21c2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,1,No,No,Electronic check,2
+a7aa2244-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7aa22d0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7aa235c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,4
+a7aa23de-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,2
+a7aa2460-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa255a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7aa2604-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,1
+a7aa2686-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,1
+a7aa2708-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,1
+a7aa2794-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,1
+a7aa2816-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7aa28ac-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7aa292e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa29ba-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa2a46-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,1
+a7aa2ad2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7aa2b5e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7aa2be0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa2c76-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7aa2d02-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Credit card (automatic),1
+a7aa2d8e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,2
+a7aa2e10-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,1
+a7aa2ea6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7aa2f28-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,1
+a7aa2fb4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,No,Mailed check,2
+a7aa3036-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Mailed check,1
+a7aa30c2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa314e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,1
+a7aa31da-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,1
+a7aa325c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,1
+a7aa32f2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,4
+a7aa337e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,1
+a7aa340a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7aa3496-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,No,Electronic check,6
+a7aa3522-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a7aa35ae-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa363a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7aa36bc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,1
+a7aa3752-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa37d4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7aa3860-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aa38e2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),3
+a7aa3978-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,3
+a7aa3a04-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Electronic check,6
+a7aa3a90-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7aa3b1c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7afab1a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afacb4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7afad68-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,Yes,Electronic check,4
+a7afae08-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Credit card (automatic),3
+a7afae9e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afaf34-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Credit card (automatic),3
+a7afafca-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7afb056-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,6
+a7afb0ec-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,4
+a7afb16e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7afb1fa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7afb290-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afb326-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),2
+a7afb3a8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a7afb434-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,2
+a7afb4ca-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7afb54c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,2
+a7afb5d8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7afb664-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,3
+a7afb6f0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7afb77c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,2
+a7afb7fe-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),5
+a7afb894-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7afb916-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7afb9a2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7afba2e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,2
+a7afbab0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),3
+a7afbb3c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afbc0e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Credit card (automatic),2
+a7afbc9a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,2
+a7afbd26-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),2
+a7afbdb2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afbe34-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,1,No,No,Electronic check,2
+a7afbec0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7afbf42-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7afbfd8-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,No,Electronic check,3
+a7afc064-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Credit card (automatic),2
+a7afc0f0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),2
+a7afc172-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7afc1fe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7afc28a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,5
+a7afc316-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afc398-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afc42e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7afc4b0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Electronic check,2
+a7afc53c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7afc5be-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7afc64a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Credit card (automatic),2
+a7afc6d6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,2
+a7afc758-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,2
+a7afc7da-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7afc866-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,2
+a7afc8fc-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7afc988-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7afcb04-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,2
+a7afcbf4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,3
+a7afccc6-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7afcda2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7afce42-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a7afcece-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afcf5a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7afcfe6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,3
+a7afd072-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Bank transfer (automatic),2
+a7afd0fe-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,2
+a7afd180-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,Yes,No,Electronic check,3
+a7afd20c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,2
+a7afd28e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7afd31a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7afd39c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7afd428-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Mailed check,2
+a7afd4aa-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afd536-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afd5c2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Mailed check,2
+a7afd64e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Electronic check,4
+a7afd6d0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7afd75c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7afd7de-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7afd86a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,4
+a7afd8ec-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afd96e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7afd9fa-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7afda86-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afdb08-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,2
+a7afdb94-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7afdc20-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,2
+a7afdcac-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7afdd42-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afddce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7afde5a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7afdee6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,3
+a7afdf68-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,No,Mailed check,2
+a7afdff4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Bank transfer (automatic),6
+a7afe080-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7afe10c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7afe18e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7afe21a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Credit card (automatic),2
+a7afe29c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,2
+a7afe364-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7afe3f0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,No,Electronic check,5
+a7afe47c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7afe508-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,2
+a7afe594-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7afe620-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7afe6ac-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7afe738-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,Yes,Electronic check,2
+a7afe7c4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afe846-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,No,Electronic check,4
+a7afe8d2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,1,No,No,Mailed check,2
+a7afe95e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7afe9ea-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7afea76-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,3
+a7afeb02-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,Yes,No,Mailed check,3
+a7afeb8e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,2
+a7afec10-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Bank transfer (automatic),2
+a7afec9c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7afed1e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Mailed check,2
+a7afedaa-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7afee36-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7afeeb8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afef44-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afefda-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Mailed check,4
+a7aff05c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7aff0e8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7aff1e2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7aff26e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Electronic check,3
+a7aff2f0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7aff37c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7aff408-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Electronic check,3
+a7aff494-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,2
+a7aff520-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7aff5a2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7aff62e-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,Yes,No,Bank transfer (automatic),5
+a7aff6b0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Mailed check,3
+a7aff73c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,2
+a7aff7be-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7aff89a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aff930-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7aff9b2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7affa34-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,3
+a7affaca-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7affb4c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,2
+a7affbd8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7affc64-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Electronic check,6
+a7affce6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7affd68-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7affdf4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7affe76-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7affef8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7afff84-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7b00006-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,1,No,No,Mailed check,4
+a7b00088-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Electronic check,6
+a7b00114-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,2
+a7b001c8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,2
+a7b00254-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,2
+a7b002d6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7b00362-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b003ee-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b00470-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7b004f2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7b0057e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7b00600-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b00682-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b0070e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7b00790-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Credit card (automatic),2
+a7b0081c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7b0089e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,2
+a7b00920-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7b009a2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7b00a56-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,Yes,Electronic check,4
+a7b00b0a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b00b8c-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7b00c36-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7b00cb8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7b00d44-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,Yes,Electronic check,2
+a7b00dd0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7b00e5c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7b00ede-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,2
+a7b00f60-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,2
+a7b00fec-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7b0106e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7b010fa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7b0117c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,2
+a7b01208-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,2
+a7b0128a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7b01316-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),2
+a7b01398-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Bank transfer (automatic),2
+a7b0144c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Credit card (automatic),2
+a7b014ce-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b01550-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7b015d2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7b0165e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,No,Bank transfer (automatic),2
+a7b016e0-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a7b01762-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,Yes,No,Electronic check,2
+a7b017e4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b018de-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7b0197e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b01a00-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7b01a82-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),2
+a7b01b0e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b01b90-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,2
+a7b01c12-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7b01c9e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b01d20-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Mailed check,3
+a7b01dd4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,2
+a7b01e56-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,5
+a7b01ed8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7b01f64-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7b01ff0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7b0207c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7b02108-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a7b0218a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7b0220c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7b02298-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,2
+a7b0231a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b0239c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a7b02428-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Mailed check,2
+a7b024aa-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,2
+a7b02536-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Mailed check,2
+a7b025b8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7b0264e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7b026f8-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7b0277a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b02806-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b02888-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7b0290a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Mailed check,2
+a7b02996-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,3
+a7b02a18-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,2
+a7b02a9a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b02b1c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b02ba8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7b02c2a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7b02cb6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7b02d42-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,2
+a7b02dc4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,2
+a7b02e46-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,2
+a7b02ec8-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Bank transfer (automatic),2
+a7b02f54-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Electronic check,3
+a7b02ffe-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,2
+a7b03080-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,4
+a7b03134-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b031c0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,No,Electronic check,2
+a7b03242-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,1,No internet service,No internet service,Mailed check,2
+a7b032ce-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,Yes,Electronic check,6
+a7b03364-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7b033e6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a7b03468-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Mailed check,3
+a7b034ea-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,1,No,No,Electronic check,6
+a7b03576-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),2
+a7b035f8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7b0367a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,No,Bank transfer (automatic),4
+a7b03706-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b03788-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7b0380a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,6
+a7b0388c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b03940-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7b039cc-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,Yes,Bank transfer (automatic),6
+a7b03a58-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7b03ae4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,2
+a7b03b66-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,2
+a7b03bf2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,2
+a7b03c74-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b03cf6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7b03d82-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b03e0e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Mailed check,2
+a7b03e90-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,2
+a7b03f1c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),2
+a7b03fee-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,2
+a7b0407a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,4
+a7b04106-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Electronic check,3
+a7b04192-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,2
+a7b04214-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b042be-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b04340-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b043c2-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7b0444e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,2
+a7b044d0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,4
+a7b04552-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,2
+a7b045d4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,2
+a7b04656-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),2
+a7b046ec-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7b0476e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7b645a6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7b64736-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),4
+a7b647f4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Bank transfer (automatic),3
+a7b64894-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Credit card (automatic),3
+a7b64934-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7b649ca-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b64a60-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Bank transfer (automatic),6
+a7b64aec-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a7b64bd2-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,No,Electronic check,6
+a7b64c68-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,3
+a7b64cf4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7b64d8a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7b64e20-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7b64eac-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a7b64f38-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7b64fc4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7b65050-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,6
+a7b650dc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,1,No,No,Electronic check,3
+a7b65168-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,4
+a7b651f4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b65280-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,3
+a7b6530c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,3
+a7b653a2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,6
+a7b65424-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7b654ba-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,3
+a7b65546-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b655d2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,6
+a7b6565e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Bank transfer (automatic),4
+a7b656f4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,5
+a7b65780-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,4
+a7b6580c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6588e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6591a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b659a6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7b65b68-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,3
+a7b65c44-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b65d20-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7b65dfc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,4
+a7b65e92-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Bank transfer (automatic),3
+a7b65f1e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7b65faa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Bank transfer (automatic),3
+a7b6602c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7b660b8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6614e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b661e4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b66266-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Mailed check,4
+a7b662fc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,3
+a7b66388-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Electronic check,3
+a7b66414-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,3
+a7b664a0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,3
+a7b6652c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),3
+a7b665c2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7b6664e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,3
+a7b666d0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,Yes,No,Electronic check,4
+a7b66766-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Mailed check,3
+a7b667f2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Mailed check,4
+a7b6687e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7b6690a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,3
+a7b66996-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Mailed check,3
+a7b66a18-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b66aae-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b66b3a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,3
+a7b66bc6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b66c52-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,Yes,Electronic check,6
+a7b66cd4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7b66d60-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a7b66dec-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b66e78-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b66efa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,3
+a7b66f86-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7b6701c-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7b6709e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6712a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,3
+a7b671b6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7b67242-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7b67300-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7b6738c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7b67418-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b674a4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,4
+a7b67526-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,3
+a7b675b2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Mailed check,6
+a7b67634-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7b676c0-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7b6774c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7b677d8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b67864-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,3
+a7b67904-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b67990-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7b67a12-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Electronic check,6
+a7b67a9e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7b67b2a-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7b67bb6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7b67c42-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Credit card (automatic),3
+a7b67cce-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b67d50-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7b67ddc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),3
+a7b67e68-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b67eea-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b67f76-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Bank transfer (automatic),3
+a7b67ff8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7b68084-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7b6816a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b6820a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7b68296-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Bank transfer (automatic),4
+a7b68322-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),3
+a7b683ae-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,Yes,Mailed check,3
+a7b6843a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7b684bc-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b68552-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b685d4-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,Yes,Electronic check,4
+a7b68660-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Electronic check,6
+a7b686e2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6876e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,3
+a7b687fa-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b68886-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7b68912-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,3
+a7b68994-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,4
+a7b68a20-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b68aa2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Bank transfer (automatic),3
+a7b68b2e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b68bba-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Mailed check,6
+a7b68c46-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b68cd2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,3
+a7b68d54-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Electronic check,4
+a7b68de0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7b68e6c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b68ef8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,3
+a7b68f7a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b68ffc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7b6907e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a7b6910a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b69196-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,3
+a7b69222-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a7b692ae-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b69330-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),5
+a7b693bc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),3
+a7b69448-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b694ca-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,4
+a7b69556-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7b695d8-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,Yes,Bank transfer (automatic),6
+a7b69664-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b696e6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7b69772-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7b697fe-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Bank transfer (automatic),5
+a7b69880-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,3
+a7b6990c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,4
+a7b699f2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,3
+a7b69a88-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7b69b14-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7b69b96-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,3
+a7b69c22-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7b69cae-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7b69d30-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b69dc6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7b69e52-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,3
+a7b69ede-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,3
+a7b69f60-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b69fec-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6a078-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7b6a104-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Bank transfer (automatic),6
+a7b6a186-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Mailed check,4
+a7b6a212-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7b6a29e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,3
+a7b6a32a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7b6a3b6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6a442-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,No,Mailed check,4
+a7b6a4ce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7b6a550-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,Yes,Electronic check,3
+a7b6a5dc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,3
+a7b6a668-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7b6a6f4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Electronic check,6
+a7b6a78a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,3
+a7b6a870-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b6a8fc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Electronic check,3
+a7b6a988-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7b6aa14-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,Yes,Electronic check,3
+a7b6aa96-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,3
+a7b6ab22-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,3
+a7b6aba4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a7b6ac26-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Mailed check,6
+a7b6acb2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7b6ad34-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a7b6adc0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7b6ae42-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,3
+a7b6aece-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,5
+a7b6af5a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,3
+a7b6afe6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a7b6b07c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,Yes,Mailed check,3
+a7b6b108-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Mailed check,3
+a7b6b194-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b6b220-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,3
+a7b6b2a2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7b6b32e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7b6b3ba-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6b504-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,Yes,Electronic check,3
+a7b6b59a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6b61c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b6b6a8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7b6b734-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,6
+a7b6b7c0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,3
+a7b6b84c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6b8d8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,3
+a7b6b964-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6ba4a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6bacc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,4
+a7b6bb58-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,4
+a7b6bbe4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6bc7a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6bd06-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6bd88-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b6be14-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a7b6be96-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,3
+a7b6bf18-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b6bfa4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,3
+a7b6c026-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Bank transfer (automatic),3
+a7b6c0da-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7b6c166-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,3
+a7b6c1f2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6c274-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,3
+a7b6c300-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6c3aa-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,Yes,Mailed check,6
+a7b6c42c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7b6c4b8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6c53a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Electronic check,3
+a7b6c5c6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),3
+a7b6c648-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7b6c6d4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7b6c756-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7b6c7e2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7b6c864-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),4
+a7b6c8e6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a7b6c97c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7b6c9fe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,3
+a7b6ca80-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6cb0c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6cb8e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6cc10-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,3
+a7b6ccc4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7b6cd50-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7b6cdd2-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,6
+a7b6ce54-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6cee0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Electronic check,3
+a7b6cfbc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Mailed check,3
+a7b6d052-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,3
+a7b6d0d4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Credit card (automatic),3
+a7b6d156-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7b6d1e2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7b6d26e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7b6d2f0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Electronic check,4
+a7b6d37c-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7b6d3fe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Mailed check,3
+a7b6d48a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),4
+a7b6d50c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6d58e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,3
+a7b6d638-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,3
+a7b6d6ce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,1,No,No,Electronic check,3
+a7b6d750-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7b6d7dc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,Yes,No,Electronic check,3
+a7b6d868-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,3
+a7b6d8ea-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7b6d976-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,3
+a7b6d9f8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,3
+a7bd22e0-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,4
+a7bd2470-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,4
+a7bd2524-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd25c4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7bd2650-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Credit card (automatic),4
+a7bd26dc-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,4
+a7bd2772-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7bd27fe-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd2894-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7bd2920-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,4
+a7bd2a10-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7bd2ab0-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),4
+a7bd2b3c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd2bc8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,4
+a7bd2c54-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7bd2cd6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Bank transfer (automatic),4
+a7bd2d62-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Bank transfer (automatic),6
+a7bd2dee-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7bd2e7a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7bd2f06-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,6
+a7bd2f88-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,4
+a7bd3014-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Mailed check,4
+a7bd30aa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd3140-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd31cc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd324e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7bd32da-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,No,Bank transfer (automatic),4
+a7bd335c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,5
+a7bd33de-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7bd346a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7bd34ec-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Credit card (automatic),4
+a7bd3578-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,1,No,No,Credit card (automatic),4
+a7bd35fa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd3686-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a7bd3712-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7bd391a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd3a1e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7bd3afa-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7bd3bcc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Credit card (automatic),4
+a7bd3c80-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,1,No,No,Mailed check,5
+a7bd3d02-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7bd3d8e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,4
+a7bd3e1a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd3ea6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd3f32-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Bank transfer (automatic),6
+a7bd3fb4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7bd4040-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,Yes,No,Mailed check,4
+a7bd40c2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Electronic check,6
+a7bd4158-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a7bd41da-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7bd4266-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Electronic check,4
+a7bd42f2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,6
+a7bd4374-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd4400-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7bd448c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Credit card (automatic),6
+a7bd450e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,1,No,No,Electronic check,4
+a7bd459a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Mailed check,4
+a7bd461c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd46a8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,Yes,Electronic check,4
+a7bd472a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),5
+a7bd47b6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7bd4842-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7bd48c4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,4
+a7bd4950-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,4
+a7bd49d2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7bd4a5e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7bd4ae0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,0,No,No,Bank transfer (automatic),6
+a7bd4b62-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7bd4bee-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,4
+a7bd4c7a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,5
+a7bd4d06-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7bd4d92-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,4
+a7bd4e1e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a7bd4eb4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,4
+a7bd4f36-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7bd4fc2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Bank transfer (automatic),4
+a7bd5080-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Mailed check,4
+a7bd5116-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7bd51a2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd522e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd52ba-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Mailed check,4
+a7bd5346-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,4
+a7bd53d2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,4
+a7bd5454-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7bd54e0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,1,No,No,Mailed check,4
+a7bd556c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a7bd560c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7bd568e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7bd571a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,4
+a7bd57a6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Bank transfer (automatic),6
+a7bd5828-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,4
+a7bd58aa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7bd5936-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,4
+a7bd59b8-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,Yes,No,Bank transfer (automatic),6
+a7bd5a3a-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,No,Electronic check,6
+a7bd5ac6-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7bd5b52-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,5
+a7bd5bd4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7bd5c56-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7bd5ce2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,4
+a7bd5d64-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd5de6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,4
+a7bd5e68-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,4
+a7bd5f58-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7bd5fe4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,4
+a7bd6070-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Mailed check,5
+a7bd60fc-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7bd6188-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,6
+a7bd620a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd6296-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd6322-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,4
+a7bd63ae-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,Yes,Electronic check,4
+a7bd6430-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd64b2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd653e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7bd65ca-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7bd6656-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,5
+a7bd66d8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,4
+a7bd67aa-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Mailed check,4
+a7bd6836-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,4
+a7bd68b8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,4
+a7bd6944-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,5
+a7bd69c6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7bd6a48-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7bd6ad4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7bd6b56-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd6be2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Bank transfer (automatic),6
+a7bd6c6e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7bd6cf0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7bd6d72-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,4
+a7bd6dfe-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7bd6e80-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Mailed check,4
+a7bd6f02-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7bd6f84-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd7010-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7bd70ba-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd713c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd71be-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Mailed check,6
+a7bd724a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd72cc-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7bd7358-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7bd73e4-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7bd7466-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,No,Electronic check,5
+a7bd74e8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7bd756a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7bd75f6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7bd7678-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7bd7704-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd77c2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd784e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7bd78d0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7bd795c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7bd7a06-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,Yes,Bank transfer (automatic),4
+a7bd7a92-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7bd7b14-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,5
+a7bd7ba0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd7c22-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd7ca4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd7d26-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7bd7db2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,Yes,No,Electronic check,4
+a7bd7e3e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd7ec0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,5
+a7bd7f4c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Credit card (automatic),4
+a7bd7fce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,4
+a7bd8050-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd80dc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,4
+a7bd815e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7bd81e0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7bd8262-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7bd8316-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd8398-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,4
+a7bd8438-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7bd84ba-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,5
+a7bd853c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7bd8604-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7bd869a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Mailed check,6
+a7bd871c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd879e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7bd8820-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7bd88a2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),5
+a7bd8924-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7bd89a6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd8a32-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,No,Electronic check,6
+a7bd8ac8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,4
+a7bd8b4a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),4
+a7bd8bcc-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7bd8c76-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd8cf8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Mailed check,6
+a7bd8d7a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,4
+a7bd8dfc-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7bd8e7e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,4
+a7bd8f00-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,4
+a7bd8f82-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7bd900e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,4
+a7bd9090-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,Yes,Electronic check,6
+a7bd911c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,4
+a7bd919e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7bd9220-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,4
+a7bd92a2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Mailed check,5
+a7bd9324-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,1,No,No,Credit card (automatic),4
+a7bd93a6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7bd9432-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Electronic check,6
+a7bd94b4-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7bd9554-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,4
+a7bd95d6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,4
+a7bd9658-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c40de4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c40f6a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,6
+a7c41014-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c410b4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c41140-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,5
+a7c411d6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c4126c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c412f8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c41384-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,5
+a7c41406-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7c41492-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c41528-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,5
+a7c416ea-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c417c6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c418a2-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7c4197e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c41a1e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,Yes,Electronic check,5
+a7c41af0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Mailed check,6
+a7c41b7c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,6
+a7c41c08-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7c41c94-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7c41d20-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c41db6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c41e38-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c41ec4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7c41f50-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7c41fd2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c4205e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,6
+a7c420e0-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c4216c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),5
+a7c421f8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Electronic check,6
+a7c42284-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c42306-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Credit card (automatic),6
+a7c42392-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),6
+a7c4241e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,5
+a7c424aa-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7c42536-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,5
+a7c425cc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,6
+a7c4264e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7c426da-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,No,Electronic check,6
+a7c4275c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7c427de-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7c4286a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c428f6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7c42982-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7c42a04-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,5
+a7c42a86-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c42b12-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7c42b9e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7c42c2a-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c42cac-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7c42d42-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,6
+a7c42dce-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7c42e50-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c42edc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Bank transfer (automatic),6
+a7c42f5e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,6
+a7c42fe0-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7c4306c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c430ee-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7c4317a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,6
+a7c431fc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7c43288-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,5
+a7c4330a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7c43396-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7c43418-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c4349a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c43526-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,6
+a7c435a8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c43634-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,1,No,No,Mailed check,5
+a7c436c0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c4374c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,5
+a7c437ce-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7c4385a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7c438e6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,5
+a7c43972-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c439f4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Credit card (automatic),6
+a7c43a76-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c43b02-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c43b84-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,5
+a7c43c10-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,5
+a7c43cf6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c43d82-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,5
+a7c43e0e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Mailed check,5
+a7c43e90-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7c43f1c-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7c43fa8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c4403e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,6
+a7c440ca-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Electronic check,6
+a7c44156-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c44214-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c442a0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7c4432c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Mailed check,6
+a7c443b8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,Yes,0,No,No,Electronic check,5
+a7c4443a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7c444bc-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c44548-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c445d4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7c44656-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c446d8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,5
+a7c44764-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c447e6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7c44868-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c448f4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7c44980-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c44a0c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c44a8e-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Credit card (automatic),6
+a7c44b1a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Electronic check,5
+a7c44b9c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,6
+a7c44c28-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7c44caa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c44d2c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c44db8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7c44e3a-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7c44ec6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Bank transfer (automatic),6
+a7c44f48-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7c44fd4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7c45060-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c450e2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,6
+a7c45164-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Credit card (automatic),5
+a7c451f0-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c4527c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c452fe-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c45380-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7c45416-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,6
+a7c454a2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,6
+a7c45524-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7c455b0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,Yes,No,Electronic check,6
+a7c45632-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7c456be-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,5
+a7c45740-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c457cc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7c4584e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,5
+a7c458da-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7c4595c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c459f2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,5
+a7c45a7e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c45b00-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,6
+a7c45b8c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c45c18-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,5
+a7c45c9a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,6
+a7c45d1c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Electronic check,5
+a7c45da8-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7c45e34-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c45ec0-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7c45f42-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,6
+a7c45fce-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7c46050-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,1,No internet service,No internet service,Mailed check,5
+a7c460d2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),5
+a7c4615e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c461e0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,6
+a7c4626c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7c462ee-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c4642e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7c464c4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,Yes,Mailed check,6
+a7c46550-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,5
+a7c465dc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,Yes,No,Electronic check,6
+a7c4665e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,5
+a7c466e0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c46762-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7c467ee-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7c46870-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7c46924-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c469b0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7c46a3c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),6
+a7c46ac8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c46b4a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c46bcc-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Mailed check,6
+a7c46c58-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c46cda-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,6
+a7c46d84-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7c46e06-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,1,No,No,Electronic check,6
+a7c46ea6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),5
+a7c46f32-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7c46fb4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c47036-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c470c2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Credit card (automatic),6
+a7c4714e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Mailed check,6
+a7c471da-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c4725c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Electronic check,6
+a7c472de-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c47360-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Electronic check,6
+a7c473e2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,5
+a7c4746e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,5
+a7c474f0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c47572-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c475fe-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c476a8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c4772a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,5
+a7c477b6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Bank transfer (automatic),6
+a7c47842-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c478c4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c47946-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7c479c8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7c47a4a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c47acc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c47b58-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7c47bda-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c47c5c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7c47cde-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7c47d6a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c47df6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,6
+a7c47e82-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c47f04-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,Yes,Yes,Electronic check,5
+a7c47fae-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c48030-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7c480b2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c4813e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Mailed check,6
+a7c481c0-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c48242-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c482ce-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c48350-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7c483d2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,5
+a7c48468-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7c484ea-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c48576-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Bank transfer (automatic),6
+a7c485f8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,5
+a7c48684-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c48706-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,Yes,0,No internet service,No internet service,Mailed check,6
+a7c48788-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c4880a-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7c488b4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c48940-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c489c2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,5
+a7c48a44-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c48b66-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c48bf2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c48c7e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c48d0a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c48d8c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,6
+a7c48e0e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,5
+a7c48e9a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7c48f1c-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7c48f9e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,5
+a7c49052-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7c490d4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,6
+a7c49156-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,5
+a7c491ec-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,Yes,Electronic check,5
+a7c49296-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c49322-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c493a4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7c49430-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,5
+a7c494b2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c49534-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Credit card (automatic),6
+a7c495c0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7c49642-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,5
+a7c496c4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c49746-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Electronic check,6
+a7c497d2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7c4985e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7c498e0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Bank transfer (automatic),6
+a7c4996c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,5
+a7c499ee-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7c49a7a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c49afc-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7c49ba6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,5
+a7c49c32-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c49cb4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c49d36-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,6
+a7c49dc2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,5
+a7c49e44-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7c49eda-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,5
+a7c49f5c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7c49fde-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c4a06a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,5
+a7c4a0ec-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c4a16e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,6
+a7c4a1f0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,5
+a7c4a27c-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7c4a308-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,6
+a7c4a38a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7c4a416-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7c4a4b6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,6
+a7c4a54c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,6
+a7c4a5d8-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7c4a65a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,Yes,Electronic check,6
+a7c4a6dc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,6
+a7c4a768-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,Yes,No,Mailed check,5
+a7c4a7f4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,1,No,No,Credit card (automatic),6
+a7c4a876-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7c4a93e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,Yes,No,Mailed check,6
+a7c4aad8-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cb8632-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,6
+a7cb87b8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,Yes,0,No,No,Electronic check,6
+a7cb886c-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,Yes,Electronic check,6
+a7cb890c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7cb89a2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cb8a2e-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7cb8ac4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,Yes,No,Mailed check,6
+a7cb8b5a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,1,No,No,Electronic check,6
+a7cb8be6-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7cb8c72-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cb8cfe-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,Yes,Mailed check,6
+a7cb8d94-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7cb8e20-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,Yes,Mailed check,6
+a7cb8eac-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,1,No,No,Mailed check,6
+a7cb8f38-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7cb9104-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,6
+a7cb91e0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cb92b2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,6
+a7cb938e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cb9438-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,1,Yes,No,Electronic check,6
+a7cb9500-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7cb9596-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cb962c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cb96b8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,6
+a7cb9744-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cb97d0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7cb985c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,6
+a7cb98e8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,6
+a7cb9974-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,6
+a7cb99f6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7cb9a78-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7cb9b04-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Credit card (automatic),6
+a7cb9b90-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cb9c1c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cb9ca8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7cb9d2a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,Yes,Electronic check,6
+a7cb9db6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cb9e42-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,6
+a7cb9ece-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7cb9f5a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cb9fe6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cba068-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7cba0f4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cba180-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7cba20c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cba28e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cba31a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cba39c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cba428-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,Yes,No,Mailed check,6
+a7cba4b4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7cba540-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,1,No,No,Credit card (automatic),6
+a7cba5cc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,6
+a7cba64e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cba6da-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cba75c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Bank transfer (automatic),6
+a7cba7e8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cba86a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Bank transfer (automatic),6
+a7cba8f6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cba978-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cbaa04-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,1,No,No,Electronic check,6
+a7cbaa90-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbab12-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbab9e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7cbac20-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbacac-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cbad2e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),6
+a7cbadba-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7cbae3c-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,1,Yes,No,Electronic check,6
+a7cbaec8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cbaf54-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbafe0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,6
+a7cbb062-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbb0ee-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cbb17a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,Yes,Electronic check,6
+a7cbb206-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7cbb292-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Bank transfer (automatic),6
+a7cbb314-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbb3a0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbb422-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Mailed check,6
+a7cbb4a4-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,6
+a7cbb530-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Credit card (automatic),6
+a7cbb5b2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7cbb63e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,6
+a7cbb72e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbb7c4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Electronic check,6
+a7cbb850-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7cbb8f0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbb972-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7cbb9fe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbba80-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbbb0c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,1,No internet service,No internet service,Electronic check,6
+a7cbbb98-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,6
+a7cbbc60-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,Yes,Mailed check,6
+a7cbbce2-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,6
+a7cbbd6e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbbdfa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbbe86-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbbf08-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbbf94-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7cbc016-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,6
+a7cbc098-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbc124-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbc1b0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Electronic check,6
+a7cbc232-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbc2be-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,No,Electronic check,6
+a7cbc340-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbc3cc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Mailed check,6
+a7cbc44e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Credit card (automatic),6
+a7cbc4da-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7cbc55c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7cbc5e8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,Yes,Yes,Mailed check,6
+a7cbc66a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Mailed check,6
+a7cbc6ec-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,Yes,Mailed check,6
+a7cbc778-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,6
+a7cbc7fa-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,6
+a7cbc886-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbc908-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7cbc98a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,0,No,No,Electronic check,6
+a7cbca0c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbca98-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbcb24-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7cbcbb0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,Yes,0,No internet service,No internet service,Mailed check,6
+a7cbcc32-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7cbccbe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7cbcd40-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,6
+a7cbcdcc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbce4e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,Yes,Mailed check,6
+a7cbceda-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbcf66-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7cbcfe8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbd074-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbd0f6-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Mailed check,6
+a7cbd182-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbd20e-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbd290-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,No,Electronic check,6
+a7cbd312-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,Yes,No,0,No,No,Mailed check,6
+a7cbd39e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,1,Yes,No,Electronic check,6
+a7cbd42a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7cbd4b6-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbd542-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,1,No,Yes,Electronic check,6
+a7cbd5c4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbd650-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,No,1,No,No,Electronic check,6
+a7cbd6d2-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7cbd75e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Electronic check,6
+a7cbd7ea-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7cbd86c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,6
+a7cbd8f8-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cbd984-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbda06-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7cbda92-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,6
+a7cbdb1e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,1,No,No,Electronic check,6
+a7cbdba0-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbdc2c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,6
+a7cbdcb8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbdd44-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbde16-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Mailed check,6
+a7cbdea2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,No,No,Electronic check,6
+a7cbdf2e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cbdfba-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,Yes,Mailed check,6
+a7cbe046-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbe0c8-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,Yes,Electronic check,6
+a7cbe154-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7cbe1d6-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Electronic check,6
+a7cbe258-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,0,No,No,Mailed check,6
+a7cbe316-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbe398-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,6
+a7cbe41a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbe4a6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Mailed check,6
+a7cbe532-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,Yes,Electronic check,6
+a7cbe618-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,1,No,No,Electronic check,6
+a7cbe6a4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Electronic check,6
+a7cbe744-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cbe7d0-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cbe852-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbe8d4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbe956-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbe9e2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbea64-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7cbeaf0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,6
+a7cbeb7c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7cbebfe-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbec80-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Mailed check,6
+a7cbed0c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Mailed check,6
+a7cbed8e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cbee10-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cbee92-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbef46-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbefc8-5342-11ec-a9bb-0242ac1c0002,Yes,No,Yes,Yes,No,0,No internet service,No internet service,Electronic check,6
+a7cbf068-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,Yes,No,0,No internet service,No internet service,Mailed check,6
+a7cbf0ea-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,0,Yes,No,Mailed check,6
+a7cbf16c-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,Yes,Electronic check,6
+a7cbf1f8-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,No,No phone service,1,No,No,Mailed check,6
+a7cbf27a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbf2fc-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7cbf37e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Electronic check,6
+a7cbf400-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,Yes,0,No,No,Electronic check,6
+a7cbf48c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbf50e-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7cbf590-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,Yes,No,No,0,No,No,Mailed check,6
+a7cbf612-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,Yes,Mailed check,6
+a7cbf69e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,6
+a7cbf72a-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7cbf7ac-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7cbf856-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbf8e2-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7cbf964-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7cbf9e6-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,No,Yes,1,No,Yes,Electronic check,6
+a7cbfa68-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7cbfaf4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7cbfb76-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbfbf8-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7cbfc7a-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,Yes,No,Mailed check,6
+a7cbfd10-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbfd92-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,No,No phone service,0,No,No,Electronic check,6
+a7cbfe14-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7cbfea0-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,Yes,Yes,No,0,No,No,Electronic check,6
+a7cbff22-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cbffa4-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cc0030-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,Yes,No,1,No,No,Mailed check,6
+a7cc00b2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Credit card (automatic),6
+a7cc015c-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cc01de-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Bank transfer (automatic),6
+a7cc026a-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cc02ec-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,Yes,Electronic check,6
+a7cc0382-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,Yes,0,No,No,Mailed check,6
+a7cc0404-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Mailed check,6
+a7cc0486-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7cc0562-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,Yes,No,Mailed check,6
+a7cc05e4-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7cc0670-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,0,No,No,Credit card (automatic),6
+a7cc06f2-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cc0774-5342-11ec-a9bb-0242ac1c0002,No,DSL,Yes,Yes,No phone service,0,No,Yes,Electronic check,6
+a7cc0800-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,No,1,No,No,Electronic check,6
+a7cc0882-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,0,No,No,Electronic check,6
+a7cc0904-5342-11ec-a9bb-0242ac1c0002,No,DSL,No,Yes,No phone service,0,No,Yes,Mailed check,6
+a7cc0990-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Bank transfer (automatic),6
+a7cc0a4e-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Electronic check,6
+a7cc0b02-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7cc0b84-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Electronic check,6
+a7cc0c06-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cc0c92-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7cc0d14-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cc0d96-5342-11ec-a9bb-0242ac1c0002,Yes,DSL,No,No,No,0,No,No,Mailed check,6
+a7cc0e18-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,No,Yes,1,No,No,Electronic check,6
+a7cc0ea4-5342-11ec-a9bb-0242ac1c0002,Yes,No,No,No,No,0,No internet service,No internet service,Mailed check,6
+a7cc0f26-5342-11ec-a9bb-0242ac1c0002,Yes,Fiber optic,No,Yes,No,0,No,No,Mailed check,6
