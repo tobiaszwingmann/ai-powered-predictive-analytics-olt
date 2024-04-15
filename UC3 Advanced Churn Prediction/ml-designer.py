@@ -7,8 +7,8 @@ import json
 import requests
 
 # Your Azure Cognitive Services Text Analytics Key and Endpoint
-KEY = "xxxxxxxxxxxx"
-ENDPOINT = "https://xxxxxxxxxxxx.cognitiveservices.azure.com/"
+KEY = "xxxxxxxxxxxxxxxxxxx"
+ENDPOINT = "https://xxxxxxxxxxxxxxxxxxxx.cognitiveservices.azure.com/"
 
 # Custom Functions
 
@@ -19,10 +19,17 @@ def chunks(lst, n):
 
 ## Sentiment Analysis API call
 def sentiment_analysis(documents, endpoint, key):
-  url = endpoint + "text/analytics/v3.2-preview.1/sentiment?opinionMining=False"
-
+  url = endpoint + "/language/:analyze-text?api-version=2023-04-15-preview"
+# Adding empty header as parameters are being sent in payload
   payload = json.dumps({
-      "documents": documents
+      "kind": "SentimentAnalysis",
+      "parameters": {
+          "modelVersion": "latest",
+          "opinionMining": "False"
+          },
+      "analysisInput":{
+          "documents":documents
+          }
   })
 
   headers = {
@@ -33,12 +40,12 @@ def sentiment_analysis(documents, endpoint, key):
   result = requests.post(url, data=payload, headers = headers)
   result = json.loads(result.content)
   try:
-    result = result['documents']
+    result = result['results']['documents']
     doc_result = [doc for doc in result]
     return(doc_result)
   except:
-    print(result['error'])
-    return(result['error'])
+    print(result)
+    return(result)
 
 # Main Function
 def azureml_main(dataframe1 = None, dataframe2 = None):
@@ -49,16 +56,21 @@ def azureml_main(dataframe1 = None, dataframe2 = None):
   batches = list(chunks(dataframe1.index, 10))
   results = []
   for batch in batches:
-    documents_batch = dataframe1.loc[batch]
-    documents_batch = documents_batch.to_dict("records")
-    results_batch = sentiment_analysis(documents_batch, ENDPOINT, KEY)
+    documents_batch = []
+    df = dataframe1.loc[batch]
+    results_batch = sentiment_analysis(df[['id', 'text']].to_dict('records'), ENDPOINT, KEY)
     results.append(results_batch)
 
   # Flatten list
   results = [doc for batch in results for doc in batch]
-  results_df = pd.DataFrame(results)
 
   # Get sentiment from results
-  dataframe1 = dataframe1.merge(results_df[['id', 'sentiment']], on = "id", how = "left")
-
+  sentiment = []
+  for result in results:
+    try:
+      sentiment.append(result['sentiment'])
+    except:
+      sentiment.append('Error, please check logs')
+  
+  dataframe1['sentiment'] = sentiment
   return(dataframe1)
